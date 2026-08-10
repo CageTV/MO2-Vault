@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2b2f3a"/>
+      <stop offset="100%" stop-color="#171a21"/>
+    </linearGradient>
+    <linearGradient id="lock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f2a93c"/>
+      <stop offset="100%" stop-color="#d97f22"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="240" height="240" rx="40" fill="url(#bg)" stroke="#3d4354" stroke-width="4"/>
+
+  <!-- folder/organizer motif behind the lock -->
+  <path d="M52 96 h60 l14 18 h78 v96 a10 10 0 0 1 -10 10 H62 a10 10 0 0 1 -10 -10 Z"
+        fill="#3d4354" stroke="#4f5670" stroke-width="3"/>
+
+  <!-- padlock -->
+  <rect x="88" y="132" width="80" height="66" rx="12" fill="url(#lock)" stroke="#8a5314" stroke-width="3"/>
+  <path d="M100 132 v-24 a28 28 0 0 1 56 0 v24" fill="none" stroke="url(#lock)" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="128" cy="160" r="10" fill="#2b2f3a"/>
+  <rect x="123" y="160" width="10" height="22" rx="4" fill="#2b2f3a"/>
+</svg>

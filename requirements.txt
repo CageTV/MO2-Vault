@@ -1,0 +1,6 @@
+# py7zr - extracting/hashing the portable MO2 .7z release and mod archives
+# (backup.py, mo2_setup.py, install_recipe.py)
+py7zr
+
+# PySide6 - the GUI (modlist_vault/gui/)
+PySide6

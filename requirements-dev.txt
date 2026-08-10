@@ -1,0 +1,4 @@
+# Build tooling only - not needed to run mo2-modlist-vault from source,
+# only to package it into mo2-modlist-vault.exe (see build_exe.spec).
+-r requirements.txt
+pyinstaller
