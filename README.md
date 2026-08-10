@@ -146,3 +146,6 @@ arguments route to the CLI - see `modlist_vault/launcher.py`.
 - **Vault blob pruning isn't implemented.** Nothing removes blobs no longer referenced by any
   snapshot - a vault only grows. Not a problem for normal use, but worth knowing before
   filling a vault with many large, very different snapshots.
+
+
+https://www.virustotal.com/gui/file/2f68901dc503abe426ca256bcfbe44c4faeb5314e093fb288d307f090b5ba798
