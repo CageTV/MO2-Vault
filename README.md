@@ -8,6 +8,8 @@ It is not an MO2 plugin for the backup/restore flow itself (a companion plugin e
 triggering vault snapshots from inside MO2 - see [MO2 Vault Integration](#mo2-vault-integration-companion-plugin)
 below) - it runs alongside MO2, reading and writing an instance folder directly.
 
+This was moved to the correct location on NexusMods here https://www.nexusmods.com/site/mods/2173?tab=description
+
 ## Why
 
 Zipping up an entire modlist (mods + downloads + game files) produces an enormous archive,
